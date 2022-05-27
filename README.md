@@ -3,16 +3,15 @@
 <br />
 
 ### Hi there 👋
-### I'm a Developer who wants to find and solve something that doesn't have an answer. 🤠
-### I'm from Korea 🇰🇷
+### I'm a Korean Developer who wants to find and solve something that doesn't have an answer. 🤠
 
 **About me**
 
-- 💼 BackEnd Engineer at [エスワイシステム](http://www.sysystem.co.jp/) 🌆
+- 💼 BackEnd Engineer at 🌆 [エスワイシステム](http://www.sysystem.co.jp/) 
 
 - 📈 I am working on various projects. The main languages I use are JAVA, Python, and JS. 👍
 
-- ❤️ I love making things, and making programs is the most rewarding. 😎
+- ❤️ I love making things, and making programs is the most rewarding.
 
 - 💬 Ask me about anything [here](https://github.com/go05117/go05117/issues) 👈
 
@@ -37,7 +36,7 @@
 
 <!-- Top Repositories 설정하는 곳 -->
 #### Top Repositories
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=mcafee.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!-- <a href="https://github.com/go05117/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
