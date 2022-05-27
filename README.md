@@ -1,7 +1,7 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&fontAlignY=45&desc=Donghyub's Github&descAlign=70&descAlignY=60" />
 
-### Hi there 👋
+### Hi there! 👋
 ### I'm a Korean Developer who wants to find and solve something that doesn't have an answer. 🤠
 
 **About me**
@@ -16,7 +16,7 @@
 
 <br />
 
-## The languages that I'm always improving my self in:
+## 🧐 The languages that I'm always improving my self :
 
 <a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
