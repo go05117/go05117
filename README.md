@@ -1,5 +1,5 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&desc=Donghyub's Github&descAlign=70&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&desc=Donghyub's Github&descAlign=70&descAlignY=65" />
 <br />
 
 ### Hi there 👋
