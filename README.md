@@ -53,7 +53,7 @@
 
 ## Contact me:
 
-<a target="_blank" href="mailto:shindonghyub@gmail.com?subject=Hello,%20JB%20"><img src="https://img.shields.io/badge/shindonghyub@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="mailto:shindonghyub@gmail.com?subject=Hello,%20JB%20"><img height= "35" src="https://img.shields.io/badge/shindonghyub@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 
 <!-- SNS 설정하는 곳 -->
 <!-- <a href="https://twitter.com/anuraghazru">
