@@ -23,13 +23,13 @@
 
 ## The languages that I'm always improving my self in:
 
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://www.javascript.com/" target="_blank"><img height= "35" src= "https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
+<a href="https://www.javascript.com/" target="_blank"><img height= "35" src= "https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
+<a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></a>
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA?style=flat-square&logo=JAVA&logoColor=007396"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=007396"></a>
 
 
 | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=go05117&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go05117&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -53,7 +53,7 @@
 
 ## Contact me:
 
-<a target="_blank" href="mailto:shindonghyub@gmail.com?subject=Hello,%20JB%20"><img src="https://img.shields.io/badge/shindonghyub@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="mailto:shindonghyub@gmail.com?subject=Hello,%20JB%20"><img src="https://img.shields.io/badge/shindonghyub@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 
 <!-- SNS 설정하는 곳 -->
 <!-- <a href="https://twitter.com/anuraghazru">
