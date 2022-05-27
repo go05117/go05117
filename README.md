@@ -1,5 +1,5 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&fontAlignY=45&desc=Donghyub's Github&descAlign=65&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&fontAlignY=45&desc=Donghyub's Github&descAlign=55&descAlignY=65" />
 
 ### Hi there 👋
 ### I'm a Korean Developer who wants to find and solve something that doesn't have an answer. 🤠
