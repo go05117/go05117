@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome!!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90" />
 <br />
 
 I'm a Developer who wants to find and solve something that doesn't have an answer.
