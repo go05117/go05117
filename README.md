@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome!!&fontSize=90" />
 <br />
 
-I'm a self-taught passionate BackEnd developer from Korea 🇮🇳
+I'm a Developer who wants to find and solve something that doesn't have an answer.
 
 **About me**
 
 - 💼 BackEnd Engineer at [エスワイシステム](http://www.sysystem.co.jp/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 I am working on various projects. The main languages I use are JAVA, Python, and JS.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love making things, and making programs is the most rewarding.
 
 - 💬 Ask me about anything [here](https://github.com/go05117/go05117/issues)
 
