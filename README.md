@@ -62,7 +62,8 @@
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thankyou for visiting my Github&fontSize=40&fontAlign=80&fontAlignY=45" />
 
 <!--
 **go05117/go05117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
