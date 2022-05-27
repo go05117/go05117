@@ -30,7 +30,7 @@
 <a href=""><img height= "35" src= "https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
 
