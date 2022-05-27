@@ -15,6 +15,9 @@
 
 - 💬 Ask me about anything [here](https://github.com/go05117/go05117/issues) 👈
 
+<br />
+<br />
+
 ## The languages that I'm always improving my self in:
 
 <a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"></a>
