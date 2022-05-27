@@ -1,5 +1,5 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&desc=Donghyub's Github" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome!!&fontSize=90&desc=Donghyub's Github" />
 <br />
 
 ### Hi there 👋
@@ -28,7 +28,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img height= "35" src= "https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=007396"></a>
 
 
 | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=go05117&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go05117&layout=compact&theme=buefy&hide_border=true" /></a> |
