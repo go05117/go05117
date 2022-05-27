@@ -23,12 +23,14 @@
 <a href="https://www.javascript.com/" target="_blank"><img height= "35" src= "https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
 
 
 | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=go05117&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go05117&layout=compact&theme=buefy&hide_border=true" /></a> |
