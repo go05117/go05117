@@ -1,20 +1,20 @@
-### Hi there 👋
-
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!!&fontSize=90&desc=Donghyub's Github" />
 <br />
 
-I'm a Developer who wants to find and solve something that doesn't have an answer.
+### Hi there 👋
+### I'm a Developer who wants to find and solve something that doesn't have an answer. 🤠
+### I'm from Korea 🇰🇷
 
 **About me**
 
-- 💼 BackEnd Engineer at [エスワイシステム](http://www.sysystem.co.jp/)
+- 💼 BackEnd Engineer at [エスワイシステム](http://www.sysystem.co.jp/) 🌆
 
-- 📈 I am working on various projects. The main languages I use are JAVA, Python, and JS.
+- 📈 I am working on various projects. The main languages I use are JAVA, Python, and JS. 👍
 
-- ❤️ I love making things, and making programs is the most rewarding.
+- ❤️ I love making things, and making programs is the most rewarding. 😎
 
-- 💬 Ask me about anything [here](https://github.com/go05117/go05117/issues)
+- 💬 Ask me about anything [here](https://github.com/go05117/go05117/issues) 👈
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
