@@ -29,7 +29,7 @@
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
-<a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=007396"></a>
+<a href=""><img height= "35" src= "https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"></a>
 
 
 | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=go05117&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go05117&layout=compact&theme=buefy&hide_border=true" /></a> |
