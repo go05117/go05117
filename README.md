@@ -31,7 +31,7 @@
 <a href=""><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
 
 
-| <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=go05117&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go05117&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=go05117&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/go05117/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go05117&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- Top Repositories 설정하는 곳 -->
